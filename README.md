@@ -46,3 +46,10 @@ stringToNumber("605" ) == 605
 stringToNumber("1405") == 1405
 stringToNumber("-7"  ) == -7
 FUNDAMENTALSPARSINGALGORITHMSSTRINGS
+
+## fourth program fake binary
+
+Description:
+
+Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
+FUNDAMENTALSSTRINGSARRAYS
