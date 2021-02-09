@@ -122,3 +122,13 @@ Build a function that returns an array of integers from n to 1 where n>0.
 
 Example : n=5 >> [5,4,3,2,1]
 FUNDAMENTALS
+
+
+## twelve function 
+
+Description:
+
+I'm new to coding and now I want to get the sum of two arrays...actually the sum of all their elements. I'll appreciate for your help.
+
+P.S. Each array includes only integer numbers. Output is a number too.
+BUGSFUNDAMENTALSARRAYSNUMBERSBASIC LANGUAGE FEATURES
