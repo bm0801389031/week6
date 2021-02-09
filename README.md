@@ -88,3 +88,9 @@ Return the average of the given array rounded down to its nearest integer.
 
 The array will never be empty.
 ALGORITHMSARRAYS
+
+## CALCULATE THE AVERAGE
+
+Write a function which calculates the average of the numbers in a given list.
+FUNDAMENTALSFUNCTIONAL PROGRAMMINGDECLARATIVE PROGRAMMING
+
