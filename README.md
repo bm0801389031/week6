@@ -113,3 +113,12 @@ If bonus is true, the salary should be multiplied by 10. If bonus is false, the 
 
 Return the total figure the individual will receive as a string prefixed with "£" (= "\u00A3", JS, Go, Java and Julia), "$" (C#, C++, Ruby, Clojure, Elixir, PHP, Python, Haskell and Lua) or "¥" (Rust).
 ALGORITHMSBOOLEANSSTRINGSNUMBERS
+
+## eleventh program function reversed sequence
+
+Description:
+
+Build a function that returns an array of integers from n to 1 where n>0.
+
+Example : n=5 >> [5,4,3,2,1]
+FUNDAMENTALS
