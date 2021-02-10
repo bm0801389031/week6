@@ -124,7 +124,7 @@ Example : n=5 >> [5,4,3,2,1]
 FUNDAMENTALS
 
 
-## twelve function 
+## twelve function array plus array
 
 Description:
 
@@ -132,3 +132,15 @@ I'm new to coding and now I want to get the sum of two arrays...actually the sum
 
 P.S. Each array includes only integer numbers. Output is a number too.
 BUGSFUNDAMENTALSARRAYSNUMBERSBASIC LANGUAGE FEATURES
+
+
+## thirteen you only need one beginner
+
+Description:
+
+You will be given an array a and a value x. All you need to do is check whether the provided array contains the value.
+
+Array can contain numbers or strings. X can be either.
+
+Return true if the array contains the value, false if not.
+FUNDAMENTALSBOOLEANSSTRINGSNUMBERSARRAYS
