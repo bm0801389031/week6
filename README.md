@@ -155,3 +155,15 @@ reverseWords("The greatest victory is that which requires no battle")
 // should return "battle no requires which that is victory greatest The"
 ALGORITHMS
 STRINGS
+
+## fifteen function rock paper scissors
+
+Rock Paper Scissors
+
+Let's play! You have to return which player won! In case of a draw return Draw!.
+
+Examples:
+
+rps('scissors','paper') // Player 1 won!
+rps('scissors','rock') // Player 2 won!
+rps('paper','paper') // Draw!
