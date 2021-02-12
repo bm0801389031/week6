@@ -374,3 +374,17 @@ SQL: return results in a column named greeting
 
 [Make sure you type the exact thing I wrote or the program may not execute properly]
 FUNDAMENTALSSTRINGS
+
+## twenty seven are you playing banjo
+
+Description:
+
+Create a function which answers the question "Are you playing banjo?".
+If your name starts with the letter "R" or lower case "r", you are playing banjo!
+
+The function takes a name as its only argument, and returns one of the following strings:
+
+name + " plays banjo" 
+name + " does not play banjo"
+Names given are always valid strings.
+FUNDAMENTALSSTRINGSFUNCTIONSCONTROL FLOWBASIC LANGUAGE FEATURES
