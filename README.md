@@ -438,3 +438,20 @@ IP_ADDRESS_INVALID - not a valid ipv4 or ipv6 ip address
 IP_ADDRESS_NOT_FOUND - ip address not in the database
 IP_ADDRESS_REQUIRED - no ip address was supplied
 FUNDAMENTALSHASHESDATA STRUCTURESOBJECTS
+
+
+
+## calculate bmi  thirty function 
+
+Description:
+
+Write function bmi that calculates body mass index (bmi = weight / height2).
+
+if bmi <= 18.5 return "Underweight"
+
+if bmi <= 25.0 return "Normal"
+
+if bmi <= 30.0 return "Overweight"
+
+if bmi > 30 return "Obese"
+FUNDAMENTALS
