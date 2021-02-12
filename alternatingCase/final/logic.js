@@ -7,5 +7,5 @@ to apply a function to each letter in the array with
 param of a strick equals [turnary operator] a.toUpperCase()?
 a.toLowerCase() : a.toUpperCase().join(''))[join brings it
 all back to one string*/
-	return this.split("").map(a => a === a.toUpperCase()? a.toLowerCase(): a.toUpperCase().join(''))
+	return this.split("").map(a => a === a.toUpperCase()? a.toLowerCase(): a.toUpperCase()).join('')
 }
